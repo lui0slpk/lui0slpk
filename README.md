@@ -53,7 +53,9 @@ Soy un entusiasta del desarrollo de software con una sólida formación en progr
 - **Python** 🐍  
 - **PHP** 💻  
 - **HTML / CSS** 🌐  
-- **Qt (PyQt/PySide)** 🧩  
+- **Node.js / JavaScript**
+- **React**
+- **Java**
 
 ---
 
