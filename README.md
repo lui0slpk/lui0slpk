@@ -1,72 +1,48 @@
-# 👋 ¡Hola! Bienvenido a mi perfil de GitHub
+# 👋 ¡Hola! Soy Luis Angel Zapata Reyes
 
-Soy un entusiasta del desarrollo de software con una sólida formación en programación, diseño de sistemas y desarrollo web y móvil. A lo largo de mi trayectoria académica y profesional, he adquirido conocimientos clave en diversas áreas de la ingeniería de software, que aplico en mis proyectos personales y profesionales.
-
----
-
-## 🧠 Áreas de Conocimiento
-
-### 🔹 Introducción a la programación y lógica
-- Fundamentos de programación
-- Algoritmos y estructuras de datos
-- Solución de problemas computacionales
-
-### 🔹 Programación orientada a objetos (POO)
-- Diseño de clases y objetos
-- Principios de encapsulamiento, herencia y polimorfismo
-- Aplicación de patrones de diseño
-
-### 🔹 Bases de datos
-- Modelado y diseño de bases de datos relacionales (SQL) y no relacionales (NoSQL)
-- Consultas eficientes y normalización
-- Gestión y mantenimiento de bases de datos
-
-### 🔹 Análisis y diseño de sistemas
-- Diagramación UML
-- Patrones de diseño de software
-- Arquitecturas de software escalables y mantenibles
-
-### 🔹 Desarrollo web
-- Tecnologías: **HTML**, **CSS**, **TypeScript**, **Python**, **Python**
-- Frameworks para frontend y backend
-- Diseño responsive y buenas prácticas de desarrollo
-
-### 🔹 Desarrollo de aplicaciones móviles
-- Diseño y programación de apps para **Android** o **iOS**
-- Conectividad con APIs y bases de datos
-- Interfaces intuitivas y funcionales
-
-### 🔹 Gestión de proyectos de software
-- Metodologías ágiles (Scrum, Kanban)
-- Gestión de riesgos y control de calidad
-- Colaboración y herramientas de control de versiones (Git)
-
-### 🔹 Prácticas profesionales
-- Experiencia en el sector TI
-- Aplicación de conocimientos técnicos en entornos reales
-- Trabajo en equipo y adaptación a procesos empresariales
+Aspirante a **Desarrollador Backend / Fullstack** y aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA. Me enfoco en construir sistemas sólidos, APIs escalables y arquitecturas bien estructuradas, combinando la potencia de **Python** en el servidor con interfaces limpias en **React**.
 
 ---
 
-## 🛠️ Lenguajes y tecnologías que manejo
+## 🚀 Perfil Técnico
 
-- **Python** 🐍  
-- **PHP** 💻  
-- **HTML / CSS** 🌐  
-- **Node.js / JavaScript**
-- **React**
-- **Java**
+*   **Backend & APIs:** Diseño y desarrollo de arquitecturas RESTful priorizando código limpio (Clean Architecture, POO) y patrones de diseño.
+*   **Bases de Datos:** Modelado, diseño y optimización de bases de datos relacionales (SQL / MariaDB / MySQL) asegurando la integridad de los datos.
+*   **Frontend:** Creación de interfaces web dinámicas y modulares utilizando React y TypeScript.
+*   **Entorno de Trabajo:** Desarrollo y automatización en Linux (Ubuntu), control de versiones con Git y flujos de trabajo profesionales.
 
 ---
 
-## 🚀 En constante aprendizaje
+## 🛠️ Stack Tecnológico
 
-Me apasiona seguir aprendiendo nuevas tecnologías y enfrentar desafíos que me permitan crecer como desarrollador. ¡Explora mis repositorios para conocer más sobre mis proyectos!
+### **Backend & Lenguajes**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL%2FMariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Frontend & Herramientas**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+---
+
+## 🧠 Conocimientos y Metodologías
+
+*   **Arquitectura de Software:** Principios SOLID, Programación Orientada a Objetos (POO), separación de responsabilidades y modularidad.
+*   **Ingeniería de Software:** Diagramación UML, diseño de bases de datos relacionales, normalización y consultas estructuradas.
+*   **Metodologías:** Desarrollo ágil y buenas prácticas para la creación de software mantenible.
+
+---
+
+## 📌 Enfoque Actual
+
+Actualmente me encuentro cerrando mi etapa lectiva en el SENA, enfocando el **100% de mi código autónomo** en el desarrollo de servicios backend robustos, integración de APIs y proyectos Fullstack listos para entornos de producción.
 
 ---
 
 ## 📫 Conecta conmigo
 
-Puedes contactarme directamente por GitHub o dejarme un mensaje en alguno de mis repositorios. Siempre estoy abierto a colaborar y compartir ideas con otros desarrolladores.
-
----
+Puedes revisar mis repositorios para conocer más sobre el código que escribo diariamente. ¡Siempre abierto a colaborar y aprender de la comunidad!
