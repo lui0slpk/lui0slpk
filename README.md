@@ -27,7 +27,7 @@ Soy un entusiasta del desarrollo de software con una sólida formación en progr
 - Arquitecturas de software escalables y mantenibles
 
 ### 🔹 Desarrollo web
-- Tecnologías: **HTML**, **CSS**, **JavaScript**
+- Tecnologías: **HTML**, **CSS**, **TypeScript**, **Python**, **Python**
 - Frameworks para frontend y backend
 - Diseño responsive y buenas prácticas de desarrollo
 
